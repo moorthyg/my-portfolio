@@ -1,0 +1,58 @@
+<div id="content_bic" #q3><!--content-->
+				<div class="position">
+					<div id="left_pan">
+						<div id="who_blk"><!--Who Block-->
+							<h3></h3>
+							<div>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+							</div>
+							<div class="read">
+								<a href="#">Read More..</a>
+							</div>
+						</div><!--Who Block-->
+						<div id="why_blk"><!--Why Block-->
+							<h3></h3>
+							<div>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+							</div>
+							<div class="read">
+								<a href="#">Read More..</a>
+							</div>
+						</div><!--Why Block-->
+					</div>
+					<div id="middle_pan">
+						<h4>Welcome to Businees is Crazy.com</h4>
+						<div class="content">
+							<div class="leftcon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia des.erunt mollit anim id est laborum."
+							</div>
+							<div class="manimg"><img src="images/radiojockey.gif"/></div>
+					   </div>
+						<div class="read"><a href="#">Read More..</a></div>
+					</div>
+					<div id="right_pan">
+						<div id="latest_blk"><!--Latest Block-->
+							<h3></h3>
+							<div class="content">
+								<div class="item-list">
+									<ul>
+										<li><a href="#"><span>Monday, Dec 07/2009</span><br />Lorem ipsum dolor sit amet, consect</a></li>
+										<li><a href="#"><span>Tuesday, Dec 07/2009</span><br />The Best Solutions for Your Business</a></li>
+										<li><a href="#"><span>Wednesday, Dec 07/2009</span><br />Aliquam fringilla nisl.</a></li>
+									</ul>
+								</div>
+								<div class="read"><a href="#">Read More..</a></div>
+							</div>
+						</div><!--Latest Block-->
+						<div id="live_blk"><!--Live Block-->
+							<div id="live_img"><a href="#"></a></div>
+						</div><!--Live Block-->
+					</div>
+				</div>
+			</div><!--content-->
+			
+			<div id="content_bic" #q4><!--content-->
+				<div class="position">
+					ohohohohohohoh
+					</div>
+					</div>
+					

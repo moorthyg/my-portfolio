@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>.:Business is CRAZY:.</title>
+<link href="styles/style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script language="javascript" type="text/javascript">
+var menu = document.createElement('ul');
+menu.id = "menu";
+for(var i=1;i<=4;i++) {
+var navitem = document.createElement('li');
+var navlink = document.createElement('a');
+navlink.href = "page"+i+".html";
+navlink.appendChild(document.createTextNode("Menu Item "+i));
+navitem.appendChild(navlink);
+}
+document.body.appendChild(menu);
+</script>
+<body>
+<div id="container_bic">
+	<div id="wrapper_bic">
+		<div id="maincontainer_bic">
+			<!--#include file="header.html"-->
+			<!--#include virtual="menu.html"--> 
+			<!--#set var="thisis" value="$DOCUMENT_NAME" -->
+			
+			<!--#if expr="\"$QUERY_STRING\" = \"\"" -->
+		    <!--#include file="content.html"-->
+		    <!--#else -->
+		    <!--#include file="${QUERY_STRING}.html"-->
+			<!--#endif -->
+			
+            <!--#include file="footer.html"--> 
+		</div>
+	</div>	
+	<div id="foot_shadow"></div>
+</div>
+</body>
+</html>
